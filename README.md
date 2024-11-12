@@ -41,7 +41,7 @@
 Clone the repository 
 ```bash
 git clone  git@github.com:bindutandon99/TrademeTests.git or https://github.com/bindutandon99/TrademeTests.git
-
+```
 ## Tests
 
 The solution has two test projects (API and Web UI)
