@@ -1,0 +1,8 @@
+{
+  "WebUiSettings": {
+    "testingSiteUrl": "https://www.tmsandbox.co.nz/"
+  },
+  "BrowserSettings": {
+    "Browser": "Chrome"    
+  }
+}

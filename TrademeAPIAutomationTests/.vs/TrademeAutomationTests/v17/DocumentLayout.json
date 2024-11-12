@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TrademeAutomation\\TrademeAutomationTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8D0F11-A60C-445B-A581-A3F35A60C73D}|..\\TrademeWebUITests\\TrademeWebUITests.csproj|c:\\trademeautomation\\trademewebuitests\\stepdefinitions\\trademesearchhousestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8D0F11-A60C-445B-A581-A3F35A60C73D}|..\\TrademeWebUITests\\TrademeWebUITests.csproj|c:\\trademeautomation\\trademewebuitests\\pages\\trademehomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8D0F11-A60C-445B-A581-A3F35A60C73D}|..\\TrademeWebUITests\\TrademeWebUITests.csproj|c:\\trademeautomation\\trademewebuitests\\support\\waithelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8D0F11-A60C-445B-A581-A3F35A60C73D}|..\\TrademeWebUITests\\TrademeWebUITests.csproj|c:\\trademeautomation\\trademewebuitests\\pages\\propertylistingdetailspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8D0F11-A60C-445B-A581-A3F35A60C73D}|..\\TrademeWebUITests\\TrademeWebUITests.csproj|c:\\trademeautomation\\trademewebuitests\\pages\\propertylistingspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8D0F11-A60C-445B-A581-A3F35A60C73D}|..\\TrademeWebUITests\\TrademeWebUITests.csproj|c:\\trademeautomation\\trademewebuitests\\config\\webconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8D0F11-A60C-445B-A581-A3F35A60C73D}|..\\TrademeWebUITests\\TrademeWebUITests.csproj|c:\\trademeautomation\\trademewebuitests\\support\\driversetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8D0F11-A60C-445B-A581-A3F35A60C73D}|..\\TrademeWebUITests\\TrademeWebUITests.csproj|c:\\trademeautomation\\trademewebuitests\\websettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32354D6-4BC8-426F-B4AB-341DF8A1ABF4}|TrademeAPITests.csproj|c:\\trademeautomation\\trademeautomationtests\\stepdefinitions\\usedcarsstepdefintions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32354D6-4BC8-426F-B4AB-341DF8A1ABF4}|TrademeAPITests.csproj|solutionrelative:stepdefinitions\\usedcarsstepdefintions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32354D6-4BC8-426F-B4AB-341DF8A1ABF4}|TrademeAPITests.csproj|c:\\trademeautomation\\trademeautomationtests\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32354D6-4BC8-426F-B4AB-341DF8A1ABF4}|TrademeAPITests.csproj|solutionrelative:implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8D0F11-A60C-445B-A581-A3F35A60C73D}|..\\TrademeWebUITests\\TrademeWebUITests.csproj|c:\\trademeautomation\\trademewebuitests\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32354D6-4BC8-426F-B4AB-341DF8A1ABF4}|TrademeAPITests.csproj|c:\\trademeautomation\\trademeautomationtests\\config\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32354D6-4BC8-426F-B4AB-341DF8A1ABF4}|TrademeAPITests.csproj|solutionrelative:config\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32354D6-4BC8-426F-B4AB-341DF8A1ABF4}|TrademeAPITests.csproj|c:\\trademeautomation\\trademeautomationtests\\apisettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C32354D6-4BC8-426F-B4AB-341DF8A1ABF4}|TrademeAPITests.csproj|solutionrelative:apisettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PropertyListingsPage.cs",
+              "DocumentMoniker": "C:\\TrademeAutomation\\TrademeWebUITests\\Pages\\PropertyListingsPage.cs",
+              "RelativeDocumentMoniker": "..\\TrademeWebUITests\\Pages\\PropertyListingsPage.cs",
+              "ToolTip": "C:\\TrademeAutomation\\TrademeWebUITests\\Pages\\PropertyListingsPage.cs",
+              "RelativeToolTip": "..\\TrademeWebUITests\\Pages\\PropertyListingsPage.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:39:47.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropertyListingDetailsPage.cs",
+              "DocumentMoniker": "C:\\TrademeAutomation\\TrademeWebUITests\\Pages\\PropertyListingDetailsPage.cs",
+              "RelativeDocumentMoniker": "..\\TrademeWebUITests\\Pages\\PropertyListingDetailsPage.cs",
+              "ToolTip": "C:\\TrademeAutomation\\TrademeWebUITests\\Pages\\PropertyListingDetailsPage.cs",
+              "RelativeToolTip": "..\\TrademeWebUITests\\Pages\\PropertyListingDetailsPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:39:08.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DriverSetup.cs",
+              "DocumentMoniker": "C:\\TrademeAutomation\\TrademeWebUITests\\Support\\DriverSetup.cs",
+              "RelativeDocumentMoniker": "..\\TrademeWebUITests\\Support\\DriverSetup.cs",
+              "ToolTip": "C:\\TrademeAutomation\\TrademeWebUITests\\Support\\DriverSetup.cs",
+              "RelativeToolTip": "..\\TrademeWebUITests\\Support\\DriverSetup.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:33:59.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TradeMeHomePage.cs",
+              "DocumentMoniker": "C:\\TrademeAutomation\\TrademeWebUITests\\Pages\\TradeMeHomePage.cs",
+              "RelativeDocumentMoniker": "..\\TrademeWebUITests\\Pages\\TradeMeHomePage.cs",
+              "ToolTip": "C:\\TrademeAutomation\\TrademeWebUITests\\Pages\\TradeMeHomePage.cs",
+              "RelativeToolTip": "..\\TrademeWebUITests\\Pages\\TradeMeHomePage.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAuwCsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:26:22.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrademeSearchHouseStepDefinitions.cs",
+              "DocumentMoniker": "C:\\TrademeAutomation\\TrademeWebUITests\\StepDefinitions\\TrademeSearchHouseStepDefinitions.cs",
+              "RelativeDocumentMoniker": "..\\TrademeWebUITests\\StepDefinitions\\TrademeSearchHouseStepDefinitions.cs",
+              "ToolTip": "C:\\TrademeAutomation\\TrademeWebUITests\\StepDefinitions\\TrademeSearchHouseStepDefinitions.cs",
+              "RelativeToolTip": "..\\TrademeWebUITests\\StepDefinitions\\TrademeSearchHouseStepDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:25:32.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsedCarsStepDefintions.cs",
+              "DocumentMoniker": "C:\\TrademeAutomation\\TrademeAutomationTests\\StepDefinitions\\UsedCarsStepDefintions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\UsedCarsStepDefintions.cs",
+              "ToolTip": "C:\\TrademeAutomation\\TrademeAutomationTests\\StepDefinitions\\UsedCarsStepDefintions.cs",
+              "RelativeToolTip": "StepDefinitions\\UsedCarsStepDefintions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:25:18.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImplicitUsings.cs",
+              "DocumentMoniker": "C:\\TrademeAutomation\\TrademeAutomationTests\\ImplicitUsings.cs",
+              "RelativeDocumentMoniker": "ImplicitUsings.cs",
+              "ToolTip": "C:\\TrademeAutomation\\TrademeAutomationTests\\ImplicitUsings.cs",
+              "RelativeToolTip": "ImplicitUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:12:37.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebConfig.cs",
+              "DocumentMoniker": "C:\\TrademeAutomation\\TrademeWebUITests\\Config\\WebConfig.cs",
+              "RelativeDocumentMoniker": "..\\TrademeWebUITests\\Config\\WebConfig.cs",
+              "ToolTip": "C:\\TrademeAutomation\\TrademeWebUITests\\Config\\WebConfig.cs",
+              "RelativeToolTip": "..\\TrademeWebUITests\\Config\\WebConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:10:15.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WaitHelper.cs",
+              "DocumentMoniker": "C:\\TrademeAutomation\\TrademeWebUITests\\Support\\WaitHelper.cs",
+              "RelativeDocumentMoniker": "..\\TrademeWebUITests\\Support\\WaitHelper.cs",
+              "ToolTip": "C:\\TrademeAutomation\\TrademeWebUITests\\Support\\WaitHelper.cs",
+              "RelativeToolTip": "..\\TrademeWebUITests\\Support\\WaitHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:40:38.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImplicitUsings.cs",
+              "DocumentMoniker": "C:\\TrademeAutomation\\TrademeWebUITests\\ImplicitUsings.cs",
+              "RelativeDocumentMoniker": "..\\TrademeWebUITests\\ImplicitUsings.cs",
+              "ToolTip": "C:\\TrademeAutomation\\TrademeWebUITests\\ImplicitUsings.cs",
+              "RelativeToolTip": "..\\TrademeWebUITests\\ImplicitUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:12:34.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "websettings.json",
+              "DocumentMoniker": "C:\\TrademeAutomation\\TrademeWebUITests\\websettings.json",
+              "RelativeDocumentMoniker": "..\\TrademeWebUITests\\websettings.json",
+              "ToolTip": "C:\\TrademeAutomation\\TrademeWebUITests\\websettings.json",
+              "RelativeToolTip": "..\\TrademeWebUITests\\websettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T22:06:34.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiConfig.cs",
+              "DocumentMoniker": "C:\\TrademeAutomation\\TrademeAutomationTests\\Config\\ApiConfig.cs",
+              "RelativeDocumentMoniker": "Config\\ApiConfig.cs",
+              "ToolTip": "C:\\TrademeAutomation\\TrademeAutomationTests\\Config\\ApiConfig.cs",
+              "RelativeToolTip": "Config\\ApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:09:02.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "apisettings.json",
+              "DocumentMoniker": "C:\\TrademeAutomation\\TrademeAutomationTests\\apisettings.json",
+              "RelativeDocumentMoniker": "apisettings.json",
+              "ToolTip": "C:\\TrademeAutomation\\TrademeAutomationTests\\apisettings.json",
+              "RelativeToolTip": "apisettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T22:03:57.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "ApiSettings": {
+    "usedCarsAPIUrl": "https://api.trademe.co.nz/v1/Categories/UsedCars.json"
+  }
+}
